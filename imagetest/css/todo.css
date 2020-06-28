@@ -1,0 +1,73 @@
+body {
+  background-image: url(../img/bk.jpg);
+  background-size: cover;
+}
+#datepicker {
+  margin-bottom: 40px;
+}
+
+#memo {
+  width: 500px;
+  height: 100px;
+  margin-bottom: 40px;
+}
+
+#inline-frame {
+  width: 400px;
+  height: 800px;
+}
+
+.navbar-header {
+  display: flex;
+}
+
+#file-upload-botton {
+  margin-bottom: 30px;
+}
+
+#logo {
+  width: 100px;
+  margin-left: 50px;
+}
+
+.navbar-brand {
+  margin-right: 200px;
+  color: #008080;
+  font-size: xxx-large;
+  font-weight: bold;
+  margin-left: 50px;
+  font-size: 60px;
+}
+
+.btn-primary {
+  background-color: #008080;
+  color: #fff;
+  border-color: #008080;
+}
+
+#youtube {
+  width: 400px;
+}
+
+#login {
+  text-align: center;
+}
+
+#login_title {
+  margin-left: 510px;
+}
+
+#logout {
+  color: #008080;
+  font-weight: bold;
+  width: 100px;
+  font-size: 20px;
+  margin-top: 50px;
+  margin-right: 30px;
+}
+
+#usertitle {
+  font-weight: bold;
+  width: 200px;
+  margin-top: 50px;
+}
